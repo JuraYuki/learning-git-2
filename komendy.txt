@@ -1,1 +1,1 @@
-<!-- [html-validate-enable element-permitted-content] -->
+npm exec html-validate yourfile.html
